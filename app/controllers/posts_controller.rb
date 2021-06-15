@@ -7,6 +7,7 @@ class PostsController < ApplicationController
   end
 
   # GET /posts/1 or /posts/1.json
+  # ABOUT link
   def show
   end
 
